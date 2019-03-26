@@ -1,0 +1,25 @@
+  * {
+    font-family: 'Raleway', sans-serif;
+ }
+.strike {
+  text-decoration: line-through;
+}
+.left{
+    float: left;
+    width:25%;
+}
+
+.right {
+    border-radius: 15px;
+    font-size: 600%;
+    width: 75%;
+    height: 100%;
+    float: left;
+    background-color:#29b6f6;
+}
+textarea {
+    font-size: 30%;
+    background: transparent;
+    border: 0 none;
+    outline: none;
+  }
